@@ -27,3 +27,4 @@ resource "aws_default_subnet" "default" {
     Name = "Default subnet for us-west-1a"
   
 }
+}
