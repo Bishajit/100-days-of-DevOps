@@ -1,1 +1,4 @@
-asdasd
+Problem Statement:
+        -Collect the System logs(/var/log/messages and /var/log/secure) and push it to CloudWatch Logs
+        -Collect custom metrics(Memory, Disk Space, Swap Utilization)
+
