@@ -2,3 +2,6 @@ Problem Statement:
         -Collect the System logs(/var/log/messages and /var/log/secure) and push it to CloudWatch Logs
         -Collect custom metrics(Memory, Disk Space, Swap Utilization)
 
+Fix:
+https://devopslearning.medium.com/100-days-of-devops-day-4-cloudwatch-log-agent-installation-centos7-d11054fffdf4
+
